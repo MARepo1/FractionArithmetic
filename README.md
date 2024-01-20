@@ -1,8 +1,8 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=8621737&assignment_repo_type=AssignmentRepo)
-# CSC 240 Computer Science III
-## Homework 3
 
-[![Points badge](../../blob/badges/.github/badges/points.svg)](../../actions)
+# CSC 240 Computer Science III
+## Homework FractionArithmetic
+
+
 
 Develop a Fraction class that is capable of doing arithmetic with fractions.  An outline of the class is given below.  Fractions are held in lowest terms, that is, you should divide out any common multiple of the numerator and denominator. The  gcd() method will help with this. You should complete the implementations of all the class methods (including the constructor).  Also create a TestFraction class and paste in the code shown below.  Your Fraction class should produce the correct results when used in TestFraction. You should submit the files `Fraction.java` and `TestFraction.java` files here. 
 
