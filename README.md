@@ -1,6 +1,6 @@
 
 # CSC 240 Computer Science III
-## Homework Fraction Arithmetic
+## Homework: Fraction Arithmetic
 
 
 
